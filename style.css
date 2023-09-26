@@ -3,7 +3,7 @@
     font-family: 'Space Grotesk', sans-serif;
 }
 
-.color-button{
+.search-button{
     color: white;
     background-color: rgb(77, 79, 192);
     border: none;
@@ -11,9 +11,26 @@
     padding: 5px;
     font-size: 1rem;
 }
-.color-button:hover{
+.search-button:hover{
 background-color: rgb(98, 100, 211);
 }
-.color-button:active{
+.search-button:active{
     background-color: rgb(129, 130, 187);
-    }
+}
+.link-img{
+    /* border: 1px solid rgb(77, 79, 192); */
+    text-decoration: none;
+}
+.More-Image{
+    background-color: rgb(77, 79, 192);
+    border: none;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+}
+.More-Image:hover{
+    background-color: rgb(98, 100, 211);
+}
+.More-Image:active{
+        background-color: rgb(129, 130, 187);
+}
