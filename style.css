@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Space+Grotesk:wght@400;600;700&display=swap');
+*{
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+.color-button{
+    color: white;
+    background-color: rgb(77, 79, 192);
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 1rem;
+}
+.color-button:hover{
+background-color: rgb(98, 100, 211);
+}
+.color-button:active{
+    background-color: rgb(129, 130, 187);
+    }
